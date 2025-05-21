@@ -150,3 +150,5 @@ Criptomoneda: Bitcoin (BTC)
 ¿Cómo evolucionó el valor del portafolio “TechGrowth” desde su creación?
 
 ¿Cuántas transacciones hizo el cliente X este mes y en qué instrumentos?
+
+![image](https://github.com/user-attachments/assets/2238c6a5-bb91-4adf-b2a6-07532c368dc5)
