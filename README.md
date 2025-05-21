@@ -1,4 +1,4 @@
-# Nuevo-en-SQL
+# FinAdvisor Global
  🧩 Contexto:
 La empresa FinAdvisor Global desea implementar un sistema integral para la gestión de inversiones financieras personalizadas. Los clientes podrán crear uno o más portafolios, invertir en diversos instrumentos financieros (acciones, bonos, fondos, etc.) y consultar el rendimiento diario de sus inversiones. El sistema permitirá a asesores financieros y clientes visualizar la evolución de sus portafolios, analizar la rentabilidad, medir el riesgo, y generar reportes útiles para la toma de decisiones.
 
